@@ -17,3 +17,10 @@ class Solution:
             x = (x % div)  // 10
             div = div // 100
         return True
+
+
+
+# Example test case
+# x = int(input())
+# solution = Solution()
+# print(solution.isPalindrome(x))
